@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+ul {
+    /* font-size: 1.2rem; */
+}
+
+.nav-link {
+    color: #2B588D;
+    font-weight: 700;
+}
+.nav-link:hover {
+    font-weight: 700;
+}
+
+.marca {
+    width: 230px;
+}
+
+.imagen-con-texto {
+    position: relative;
+  }
+  
+  .imagen-con-texto img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  .imagen-con-texto .texto {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 100%;
+  }
+
+  .seccion-home h1 {
+    font-size:5.5vw;
+    font-weight: 800;
+    color: #FFFFFF;
+    font-family: 'Encode Sans Condensed', sans-serif;
+    text-shadow:  2px 2px 2px #333;;
+ }
+
+ .seccion-home span {
+    font-family: 'Ms Madi', cursive;
+    font-size: 8.5vw;
+    color: #FFFFFF;
+    font-weight: 300;
+    margin: 0px 10px;
+}
+
+.seccion-home1 h2 {
+    font-size: 35px;
+    font-weight: 600;
+    color: #2B588D;
+    text-transform: uppercase;
+}
+
+.seccion-home1 h3 {
+    font-size: 25px;
+    font-weight: 800;
+    color: #4DC6C5;
+    margin: 40px 0px;
+}
+
+.seccion-home1 p {
+    font-size: 20px;
+    color: #000000;
+    line-height: 25px;
+    font-weight: 400;
+}
+
+.contenedordepagina {
+    max-width: 960px;
+    width: 90%;
+    margin:0px auto;
+}
+
+footer {
+    padding: 30px 0px;
+    background: #2B588D;
+}
+
+.fa-envelope, .fa-instagram, .fa-whatsapp {
+    font-size: 25px;
+    color:#ffffff;
+    padding: 5px 5px;
+}
