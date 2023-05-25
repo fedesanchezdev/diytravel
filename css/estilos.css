@@ -79,6 +79,18 @@ ul {
     font-weight: 400;
 }
 
+.seccion-ventas2 h3 {
+    font-size: 45px;
+    color: #ffffff;
+    margin: 30px 0px;
+    font-family: 'Ms Madi', cursiva;
+}
+
+.seccion-ventas2 {
+    background: #4DC6C5;
+    padding: 10px 0px;
+}
+
 .contenedordepagina {
     max-width: 960px;
     width: 90%;
